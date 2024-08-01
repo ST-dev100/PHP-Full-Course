@@ -1,4 +1,3 @@
 <h1>PHP Full Course</h1>
-<p>Global varibles</p>
-<p>local varibles</p>
-<p>Static varibles</p>
+<p>PHP echo and print Statements</p>
+<p>PHP Data Types</p>
